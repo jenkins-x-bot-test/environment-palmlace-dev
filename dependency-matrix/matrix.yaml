@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: cb-kubecd
+  repo: jr1-palmlace
+  url: https://github.com/cb-kubecd/jr1-palmlace.git
+  version: ""
+  versionURL: ""

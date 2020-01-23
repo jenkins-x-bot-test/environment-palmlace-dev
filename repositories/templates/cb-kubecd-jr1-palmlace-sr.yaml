@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: cb-kubecd
+    provider: github
+    repository: jr1-palmlace
+  name: cb-kubecd-jr1-palmlace
+spec:
+  description: Imported application for cb-kubecd/jr1-palmlace
+  httpCloneURL: https://github.com/cb-kubecd/jr1-palmlace.git
+  org: cb-kubecd
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: jr1-palmlace
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/cb-kubecd/jr1-palmlace.git
